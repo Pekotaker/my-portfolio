@@ -2,7 +2,7 @@ import * as Pages from "pages";
 
 const routes = [
   {
-    path: "/",
+    path: "/my-portfolio",
     component: Pages.Home,
     title: "Welcome to My Portfolio",
     exact: true,

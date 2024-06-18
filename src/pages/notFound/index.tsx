@@ -6,7 +6,7 @@ const NotFound: React.FC = () => {
       <h1>404 - Page Not Found</h1>
       <p>The page you are looking for does not exist.</p>
       <button>
-        <a href="/">Go Home</a>
+        <a href="/my-portfolio">Go Home</a>
       </button>
     </div>
   );
