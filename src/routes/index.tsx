@@ -7,12 +7,12 @@ const routes = [
     title: "Welcome to My Portfolio",
     exact: true,
   },
-  //   {
-  //     path: "*",
-  //     component: Pages.NotFound,
-  //     title: "404 - Page Not Found",
-  //     exact: false,
-  //   },
+  {
+    path: "*",
+    component: Pages.NotFound,
+    title: "404 - Page Not Found",
+    exact: false,
+  },
 ];
 
 export default routes;
