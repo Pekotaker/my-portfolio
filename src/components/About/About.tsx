@@ -1,15 +1,9 @@
 import { Container } from "./styles";
-import NguyenVu from "../../assets/NguyenVu.jpg";
-import aspIcon from "../../assets/asp-icon.svg";
+// import NguyenVu from "../../assets/NguyenVu.jpg";
 import cSharpIcon from "../../assets/csharp-icon.svg";
-import cppIcon from "../../assets/cpp-icon.svg";
 import firebaseIcon from "../../assets/firebase-icon.svg";
-import gitIcon from "../../assets/git-icon.svg";
-import javaIcon from "../../assets/java-icon.svg";
 import materialIcon from "../../assets/material-icon.svg";
 import mongoIcon from "../../assets/mongo-icon.svg";
-import tailwindIcon from "../../assets/tailwind-icon.svg";
-import dockerIcon from "../../assets/docker-icon.svg";
 import pythonIcon from "../../assets/python-icon.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";

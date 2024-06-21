@@ -6,7 +6,7 @@ import facebookIcon from "../../assets/facebook-icon.svg";
 import twitterIcon from "../../assets/twitter-icon.svg";
 import steamIcon from "../../assets/steam-icon.svg";
 import itchIcon from "../../assets/itch-icon.svg";
-import vietnamworksIcon from "../../assets/vietnamworks-icon.svg";
+// import vietnamworksIcon from "../../assets/vietnamworks-icon.svg";
 // import discordIcon from '../../assets/discord.png'
 
 export function Footer() {
