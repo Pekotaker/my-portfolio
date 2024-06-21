@@ -1,27 +1,35 @@
 {
-  "homepage": "https://Pekotaker.github.io/my-portfolio",
-  "name": "my-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "@types/jest": "^27.5.2",
-    "@types/node": "^16.18.98",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.23.1",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "@formspree/react": "^2.2.4",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^17.0.20",
+    "@types/react-dom": "^17.0.9",
+    "gh-pages": "^3.2.3",
+    "react": "^17.0.2",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-dom": "^17.0.2",
+    "react-google-recaptcha": "^2.1.0",
+    "react-router-dom": "^6.2.1",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "^5.0.1",
+    "react-toastify": "^8.1.0",
+    "react-tsparticles": "^1.37.5",
+    "styled-components": "^5.3.3",
+    "typescript": "^4.4.2",
+    "validator": "^13.7.0",
+    "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -45,6 +53,11 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "@types/react-animate-on-scroll": "^2.1.5",
+    "@types/react-google-recaptcha": "^2.1.2",
+    "@types/react-router-hash-link": "^2.4.4",
+    "@types/styled-components": "^5.1.18",
+    "@types/validator": "^13.7.1",
+    "eslint-config-react-app": "^7.0.1"
   }
 }
