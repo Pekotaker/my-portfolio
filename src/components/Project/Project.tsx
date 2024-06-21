@@ -20,7 +20,7 @@ const projectList = [
     github: "https://github.com/Pekotaker/basicchat",
   },
   {
-    title: "Dice oller",
+    title: "Dice Roller",
     description:
       "A basic window application used in classes to teach 6th grade students Statistics and Probability",
     tech: ["C#", "Windows Forms"],
