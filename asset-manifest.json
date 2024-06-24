@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.fa260973.css",
-    "main.js": "/my-portfolio/static/js/main.4a98c41f.js",
+    "main.js": "/my-portfolio/static/js/main.561a0539.js",
     "static/js/453.41811d64.chunk.js": "/my-portfolio/static/js/453.41811d64.chunk.js",
-    "static/media/resume.pdf": "/my-portfolio/static/media/resume.bb29dd66e0440bebfea1.pdf",
     "static/media/Hello.gif": "/my-portfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.b140f174d36f1675d896.pdf",
     "static/media/illustration.svg": "/my-portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/asp-icon.svg": "/my-portfolio/static/media/asp-icon.aba717f8e028fc0689240438f4e184b9.svg",
     "static/media/itch-icon.svg": "/my-portfolio/static/media/itch-icon.23f7537342b1446cbf60abf20cb92447.svg",
@@ -36,11 +36,11 @@
     "static/media/vue-icon.svg": "/my-portfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/tailwind-icon.svg": "/my-portfolio/static/media/tailwind-icon.973c73e85d4daa24b257ba20298716c4.svg",
     "main.fa260973.css.map": "/my-portfolio/static/css/main.fa260973.css.map",
-    "main.4a98c41f.js.map": "/my-portfolio/static/js/main.4a98c41f.js.map",
+    "main.561a0539.js.map": "/my-portfolio/static/js/main.561a0539.js.map",
     "453.41811d64.chunk.js.map": "/my-portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa260973.css",
-    "static/js/main.4a98c41f.js"
+    "static/js/main.561a0539.js"
   ]
 }
