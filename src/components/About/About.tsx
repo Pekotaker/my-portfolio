@@ -13,6 +13,8 @@ import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
+import aspIcon from "../../assets/asp-icon.svg";
+import javaIcon from "../../assets/java-icon.svg";
 
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -30,6 +32,8 @@ const mainSkills = [
   cSharpIcon,
   mongoIcon,
   firebaseIcon,
+  aspIcon,
+  javaIcon,
 ];
 
 const altSkills = [
@@ -46,6 +50,8 @@ const altSkills = [
   "C#",
   "MongoDB",
   "Firebase",
+  "ASP.NET",
+  "Java",
 ];
 
 export function About() {
